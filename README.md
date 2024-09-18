@@ -48,5 +48,6 @@ Future<http.Response> searchUser(String query) {
 ---
 
 ## Screenshot Application
-![App Screenshot](/assets/login.png)
-![App Screenshot](/assets/dashboard.png)
+<img src="/assets/login.png" alt="App Screenshot" style="max-width: 100%; height: auto;">
+
+<img src="/assets/dashboard.png" alt="App Screenshot" style="max-width: 100%; height: auto;">
